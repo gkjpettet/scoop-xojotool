@@ -1,0 +1,8 @@
+{
+  "version": "1.0.4",
+  "homepage": "https://github.com/gkjpettet/xojotool",
+  "license": "MIT",
+  "url": "https://github.com/gkjpettet/xojotool/files/9366185/xojotool-1.0.4-win.zip",
+  "hash": "40d409558e9ea389f9d1860bbdd7d5af827b08d8f35a5829e383767e99dcf36a",
+  "bin": "xojotool.exe"
+}
